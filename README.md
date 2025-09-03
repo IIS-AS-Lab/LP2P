@@ -21,7 +21,8 @@ The pipeline handles motion simulation, cropping, filtering, and file management
 
 ## 📋 Prerequisites
 ```
-Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/products/distribution).
+Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
+or [anaconda](https://www.anaconda.com/products/distribution).
 Ensure [git](https://git-scm.com/) is installed to clone the repository.
 git clone https://github.com/IIS-AS-Lab/LP2P.git
 cd LP2P
