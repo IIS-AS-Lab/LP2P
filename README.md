@@ -7,7 +7,7 @@ The pipeline handles motion simulation, cropping, filtering, and file management
 ```
 ├── run_simulation.py             # Main entry point for the simulation
 ├── environment.yml               # Conda environment dependencies
-├── src/                          # Python scripts for filtering, cropping, and simulation
+├── src/                          # Python scripts for filtering and simulation
 ├── images/                       # 
 │   ├── pipeline_flowchart.png	  # Flowchart image
 ├── source_videos/                # Input TIFF videos (1P, 2P, background)
