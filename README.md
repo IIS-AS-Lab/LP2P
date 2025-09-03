@@ -2,8 +2,9 @@
 This repository provides a simulation pipeline for generating synthetic calcium imaging data by combining 1-photon (1P) background videos with 2-photon (2P) neuron foreground videos.  
 The pipeline handles motion simulation, cropping, filtering, and file management in a structured and reproducible way.
 
-```
+
 ## 📁 Project Structure
+```
 ├── run_simulation.py             # Main entry point for the simulation
 ├── environment.yml               # Conda environment dependencies
 ├── src/                          # Python scripts for filtering, cropping, and simulation
@@ -17,8 +18,9 @@ The pipeline handles motion simulation, cropping, filtering, and file management
 ├── LICENSE                 	  # MIT License details
 └── README.md                     # Project documentation
 ```
-```
+
 ## 📋 Prerequisites
+```
 Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/products/distribution).
 Ensure [git](https://git-scm.com/) is installed to clone the repository.
 git clone https://github.com/IIS-AS-Lab/LP2P.git
