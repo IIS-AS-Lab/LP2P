@@ -17,13 +17,13 @@ The pipeline handles motion simulation, cropping, filtering, and file management
 ├── LICENSE                 	  # MIT License details
 └── README.md                     # Project documentation
 ```
-
+```
 ## 📋 Prerequisites
 Install [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/products/distribution).
 Ensure [git](https://git-scm.com/) is installed to clone the repository.
 git clone https://github.com/IIS-AS-Lab/LP2P.git
 cd LP2P
-
+```
 
 ## ⚙️ Setup
 Make sure you have [conda](https://docs.conda.io/) installed.
